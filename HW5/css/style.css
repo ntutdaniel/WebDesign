@@ -138,12 +138,14 @@ body {
     margin-left: 24px;
     width: 134px;
     height: 63px;
-    background-color: #3B2C35;
     text-align: center;
     color: #fff;
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
+    background-color: #F0A868;
+    color: #000;
+    font-size: 24px;
 }
 
 .sub-nav-fix > li:nth-child(2),
@@ -151,6 +153,9 @@ body {
     height: 40px;
     width: 120px;
     margin-top: 23px;
+    color: #fff;
+    background-color: #3B2C35;
+    font-size: 16px;
 }
 
 .sub-nav-fix-active,
